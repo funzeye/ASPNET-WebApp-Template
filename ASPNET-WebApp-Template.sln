@@ -3,17 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNET-WebApp-Template.Web", "ASPNET-WebApp-Template.Web\ASPNET-WebApp-Template.Web.csproj", "{AD1306D4-55E5-4556-BEA6-8A4DB386668E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNET-WebApp-Template.Web", "ASPNET-WebApp-Template.Web\ASPNET-WebApp-Template.Web.csproj", "{AD1306D4-55E5-4556-BEA6-8A4DB386668E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNET-WebApp-Template.Core", "ASPNET-WebApp-Template.Core\ASPNET-WebApp-Template.Core.csproj", "{A7F13A05-6D05-4695-8A08-87E5DD33E672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNET-WebApp-Template.Core", "ASPNET-WebApp-Template.Core\ASPNET-WebApp-Template.Core.csproj", "{A7F13A05-6D05-4695-8A08-87E5DD33E672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNET-WebApp-Template.Infrastructure", "ASPNET-WebApp-Template.Infrastructure\ASPNET-WebApp-Template.Infrastructure.csproj", "{A89B948C-BEC9-47C3-B65A-2D41FA8F584A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNET-WebApp-Template.Infrastructure", "ASPNET-WebApp-Template.Infrastructure\ASPNET-WebApp-Template.Infrastructure.csproj", "{A89B948C-BEC9-47C3-B65A-2D41FA8F584A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D88CE015-19BB-4282-8716-79F7E056FB60}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CAF728C-AB85-4014-8631-A9F41D749A42}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\.gitignore = ..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\.gitignore
-		..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\LICENSE = ..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\LICENSE
-		..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\README.md = ..\..\..\Downloads\ASP.NET-Web-Project-Starter-master\README.md
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global

@@ -1,7 +1,7 @@
 # UNDER CONSTRUCTION
 
 # ASP.NET-Web-Project-Starter
-Basic clean architecture for an asp.net web project
+Basic clean architecture for an asp.net web project test
 
 3 layers - 
 1. Web/UI/Presentation Layer
